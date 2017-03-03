@@ -490,6 +490,7 @@ h6,
 
 
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -558,6 +559,9 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #000000;
+}
+#msg-box5-a H3 {
+  font-family: 'Roboto', sans-serif;
 }
 #features3-c H5 {
   text-align: center;
